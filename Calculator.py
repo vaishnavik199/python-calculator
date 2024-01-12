@@ -1,10 +1,3 @@
-# 21105 - Prithviraj Shevade.
-# 21139 - Pranit Khaire.
-# 21169 - Malisha Gavali
-# 21148 - Siddhi Khetmalis
-# 21122 - Prachi Markad
-# 21118 - Priti Mehetre
-
 import tkinter as tk
 
 LARGE = ("Arial", 40, "bold")
